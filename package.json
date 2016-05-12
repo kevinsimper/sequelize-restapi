@@ -1,6 +1,6 @@
 {
   "name": "sequelize-restapi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A easy way to expose a model as a rest api",
   "main": "index.js",
   "directories": {
